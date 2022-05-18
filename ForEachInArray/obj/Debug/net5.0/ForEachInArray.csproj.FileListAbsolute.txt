@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/Arrays/ForEachInArray/bin/Debug/net5.0/ForEachInArray.deps.json
+/Users/GRI$$$HA/Projects/Arrays/ForEachInArray/bin/Debug/net5.0/ForEachInArray.runtimeconfig.json
+/Users/GRI$$$HA/Projects/Arrays/ForEachInArray/bin/Debug/net5.0/ForEachInArray.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/Arrays/ForEachInArray/bin/Debug/net5.0/ForEachInArray.dll
+/Users/GRI$$$HA/Projects/Arrays/ForEachInArray/bin/Debug/net5.0/ref/ForEachInArray.dll
+/Users/GRI$$$HA/Projects/Arrays/ForEachInArray/bin/Debug/net5.0/ForEachInArray.pdb
+/Users/GRI$$$HA/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.dll
+/Users/GRI$$$HA/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ref/ForEachInArray.dll
+/Users/GRI$$$HA/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.pdb
+/Users/GRI$$$HA/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.genruntimeconfig.cache

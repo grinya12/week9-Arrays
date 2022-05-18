@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/Arrays/FortuneCookie/bin/Debug/net5.0/FortuneCookie.deps.json
+/Users/GRI$$$HA/Projects/Arrays/FortuneCookie/bin/Debug/net5.0/FortuneCookie.runtimeconfig.json
+/Users/GRI$$$HA/Projects/Arrays/FortuneCookie/bin/Debug/net5.0/FortuneCookie.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/Arrays/FortuneCookie/bin/Debug/net5.0/FortuneCookie.dll
+/Users/GRI$$$HA/Projects/Arrays/FortuneCookie/bin/Debug/net5.0/ref/FortuneCookie.dll
+/Users/GRI$$$HA/Projects/Arrays/FortuneCookie/bin/Debug/net5.0/FortuneCookie.pdb
+/Users/GRI$$$HA/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/FortuneCookie.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/FortuneCookie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/FortuneCookie.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/FortuneCookie.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/FortuneCookie.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/FortuneCookie.dll
+/Users/GRI$$$HA/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/ref/FortuneCookie.dll
+/Users/GRI$$$HA/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/FortuneCookie.pdb
+/Users/GRI$$$HA/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/FortuneCookie.genruntimeconfig.cache

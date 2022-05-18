@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{DE198455-2229-47E1-A99F-CADF5DC77C3F}|Default">
+  <MonoDevelop.Ide.ItemProperties.FortuneCookie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MatterOfTaste/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="29" Column="2" />
+      <File FileName="LoopingThroughTheArray/Program.cs" Line="3" Column="11" />
+      <File FileName="ForEachInArray/Program.cs" Line="3" Column="11" />
+      <File FileName="RandomFromArray/Program.cs" Line="3" Column="13" />
+      <File FileName="FortuneCookie/Program.cs" Line="22" Column="58" />
+      <File FileName="MatterOfTaste/Program.cs" Line="40" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arrays" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ForEachInArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RandomFromArray FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Arrays FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MatterOfTaste PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LoopingThroughTheArray FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
